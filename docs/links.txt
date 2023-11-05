@@ -1,0 +1,7 @@
+quanta, https://www.quantamagazine.org/icy-oceans-exist-on-far-off-moons-why-arent-they-frozen-solid-20231102/?mc_cid=a5bcca8e45&mc_eid=77fe38080c
+article1, https://www.nature.com/articles/nature07571
+article2-some values given here, https://www.sciencedirect.com/science/article/pii/S0019103596956699?via%3Dihub
+article3, https://www.lpl.arizona.edu/~rlorenz/europa.pdf
+article4-love numbers and density, https://www.sciencedirect.com/science/article/pii/S0019103515002523
+heat capacity of water, https://www.desmos.com/calculator/wicmrvrznj?lang=ru
+ice properties, https://www.engineeringtoolbox.com/ice-thermal-properties-d_576.html
